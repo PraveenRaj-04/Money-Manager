@@ -1,0 +1,15 @@
+const BASE_URL = "http://localhost:5000/api";
+
+export async function getTransactions() {
+  const res = await fetch(`${BASE_URL}/transactions`);
+  return res.json();
+}
+
+export async function addTransaction(data) {
+  const res = await fetch(`${BASE_URL}/transactions`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(data)
+  });
+  return res.json();
+}
