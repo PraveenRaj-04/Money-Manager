@@ -49,13 +49,13 @@ Deployment
 
 Frontend: Vercel
 
-Backend: Render
+Backend: Vercel
 
 🚀 Live Demo
 
-Frontend: https://money-manager-xi-sable.vercel.app/
+Frontend: https://money-manager-kappa-five.vercel.app/
 
-Backend API: https://money-manager-ijje.onrender.com/api/transactions
+Backend API: https://money-manager-kappa-five.vercel.app/api/transactions
 
 🧪 How to Run Locally
 Backend
