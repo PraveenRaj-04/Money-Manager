@@ -53,9 +53,9 @@ Backend: Render
 
 🚀 Live Demo
 
-Frontend: https://your-frontend-url.vercel.app
+Frontend: https://money-manager-xi-sable.vercel.app/
 
-Backend API: https://your-backend-url.onrender.com/api/transactions
+Backend API: https://money-manager-ijje.onrender.com/api/transactions
 
 🧪 How to Run Locally
 Backend
